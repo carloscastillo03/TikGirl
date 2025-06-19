@@ -1,0 +1,14 @@
+{
+    "background_color": "white",
+    "description": "Most Sexy Girls Looking for Love. Fuck Them Now! Popular Personals Site. Lively Singles. Chat, Cam & Fuck",
+    "display": "fullscreen",
+    "name": "TikGirls",
+    "short_name": "TikGirls",
+    "theme_color": "#E6E6FA",
+    "start_url": "/video_app/new/main/3/loading/index2.html?is_pwa=1&infinity=true",
+    "icons": [{
+        "src": "./icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }]
+}
